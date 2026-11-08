@@ -84,6 +84,7 @@ def main():
     while n < 0:
         print("\nEl valor de n debe ser no negativo.\n")
         n = int(input("+ Ingrese el valor de N (Valor del exponente): "))
+    
     x = float(input("+ Ingrese el valor de X (Valor de la variable): "))
 
     coeficientes = generarCoeficientes(n)
