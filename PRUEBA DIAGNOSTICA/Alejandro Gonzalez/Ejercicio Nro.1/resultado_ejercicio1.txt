@@ -1,0 +1,40 @@
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 2
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0000818000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 1
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0000969000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: INCORRECTO
+Falla en el movimiento: 50
+Motivo: formato de movimiento incorrecto
+Tiempo de 10 verificaciones: 0.0007781000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0080307000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 1
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0000583000 segundos
