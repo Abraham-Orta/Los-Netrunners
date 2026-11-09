@@ -1,0 +1,10 @@
+=== REPORTE DE TIEMPOS EJERCICIO 2 (PYTHON) ===
+Lenguaje: Python 3.13.6
+Grado del polinomio: n = 100 (Triangulo de Pascal de 101 filas, 5151 coeficientes)
+Repeticiones del benchmark: 100
+Coeficiente central C(100, 50):
+  100891344545564193334812497256
+Numero de digitos del coeficiente central: 30
+Tiempo total (100 ejecuciones): 168.1934 ms (0.168193 s)
+Tiempo promedio por generacion: 1.6819 ms (0.001682 s)
+Tiempo minimo (mejor ejecucion): 1.5085 ms (0.001508 s)
