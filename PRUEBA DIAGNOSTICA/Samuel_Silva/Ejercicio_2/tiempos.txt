@@ -1,0 +1,2 @@
+Tiempo de ejecucion para generar n=100 en C: 0.00001580 segundos
+Tiempo de ejecucion para generar n=100 en Python: 0.00027290 segundos

@@ -1,0 +1,1 @@
+Tiempo de verificacion 10x500 movimientos en Python: 0.00319170 segundos
