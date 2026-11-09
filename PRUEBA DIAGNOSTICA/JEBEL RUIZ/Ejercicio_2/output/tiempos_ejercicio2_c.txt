@@ -1,0 +1,11 @@
+=== REPORTE DE TIEMPOS EJERCICIO 2 (LENGUAJE C) ===
+Compilador: GCC MinGW (Optimizacion -O2)
+Grado del polinomio: n = 100 (Triangulo de Pascal con memoria dinamica y BigInt)
+Filas: 101, Coeficientes generados: 5151
+Repeticiones del benchmark: 100
+Coeficiente central C(100, 50):
+  100891344545564193334812497256
+Numero de digitos: 30
+Tiempo total (100 ejecuciones): 311.08680 ms (0.3110868 s)
+Tiempo promedio por generacion: 3.11087 ms (0.0031109 s)
+Tiempo minimo (mejor ejecucion): 1.97040 ms (0.0019704 s)

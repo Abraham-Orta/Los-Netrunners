@@ -1,0 +1,15 @@
+=== REPORTE EJERCICIO 3: PALABRAS RESERVADAS EN C (LENGUAJE C) ===
+Archivo analizado: ejemplo_entrada.c (948 bytes)
+
+- 'double' -> 'doble': 1 veces (Lineas: 19)
+- 'else' -> 'sino': 1 veces (Lineas: 23)
+- 'float' -> 'flotante': 1 veces (Lineas: 18)
+- 'for' -> 'para': 1 veces (Lineas: 10)
+- 'if' -> 'si': 1 veces (Lineas: 21)
+- 'int' -> 'entero': 8 veces (Lineas: 8, 8, 9, 10, 27, 35, 36, 37)
+- 'return' -> 'retornar': 2 veces (Lineas: 13, 40)
+- 'void' -> 'vacio': 1 veces (Lineas: 17)
+- 'while' -> 'mientras': 1 veces (Lineas: 28)
+
+Total palabras detectadas: 17
+Total tipos de palabras distintas: 9

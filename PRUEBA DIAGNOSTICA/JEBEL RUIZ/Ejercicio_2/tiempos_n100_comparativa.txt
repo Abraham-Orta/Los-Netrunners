@@ -1,0 +1,42 @@
+COMPARATIVA DE RENDIMIENTO: POLINOMIO (x+1)^100 (PYTHON vs LENGUAJE C)
+
+
+1. RESULTADOS OBTENIDOS EN LENGUAJE C:
+-------------------------------------
+=== REPORTE DE TIEMPOS EJERCICIO 2 (LENGUAJE C) ===
+Compilador: GCC MinGW (Optimizacion -O2)
+Grado del polinomio: n = 100 (Triangulo de Pascal con memoria dinamica y BigInt)
+Filas: 101, Coeficientes generados: 5151
+Repeticiones del benchmark: 100
+Coeficiente central C(100, 50):
+  100891344545564193334812497256
+Numero de digitos: 30
+Tiempo total (100 ejecuciones): 115.22070 ms (0.1152207 s)
+Tiempo promedio por generacion: 1.15221 ms (0.0011522 s)
+Tiempo minimo (mejor ejecucion): 1.04150 ms (0.0010415 s)
+
+2. RESULTADOS OBTENIDOS EN PYTHON:
+-----------------------------------
+=== REPORTE DE TIEMPOS EJERCICIO 2 (PYTHON) ===
+Lenguaje: Python 3.13.6
+Grado del polinomio: n = 100 (Triangulo de Pascal de 101 filas, 5151 coeficientes)
+Repeticiones del benchmark: 100
+Coeficiente central C(100, 50):
+  100891344545564193334812497256
+Numero de digitos del coeficiente central: 30
+Tiempo total (100 ejecuciones): 168.1934 ms (0.168193 s)
+Tiempo promedio por generacion: 1.6819 ms (0.001682 s)
+Tiempo minimo (mejor ejecucion): 1.5085 ms (0.001508 s)
+
+3. CONCLUSIONES:
+------------------------------------
+- Lenguaje C implemento aritmetica de precision arbitraria (BigInt) mediante
+  estructuras y punteros en memoria dinamica (malloc / free) para soportar
+  el coeficiente central C(100, 50) de 30 digitos sin desbordamiento.
+- Python cuenta con soporte nativo de enteros de longitud arbitraria (PyLongObject)
+  escrito en C nativo con aritmetica en Base 2^30 y gestion de memoria optimizada (obmalloc).
+- Debido a que la solucion en C utiliza Base 10 y realiza miles de llamadas directas a malloc()
+  al sistema operativo, Python muestra una gran eficiencia al usar preasignacion de memoria.
+- Ambas implementaciones completaron con exito la generacion de los 5151 coeficientes
+  del Triangulo de Pascal sin desbordar la memoria y respetando la precision exacta.
+======================================================================

@@ -1,0 +1,19 @@
+=== REPORTE DE TIEMPOS EJERCICIO 1 (LENGUAJE C) ===
+Compilador: GCC MinGW (optimizado -O2)
+Posicion inicial (Ak): a2
+Secuencia evaluada: 500 movimientos oficiales del PDF
+Iteraciones: 10
+Resultado: movimiento CORRECTO.
+Tiempo total (10 iteraciones): 1.26120 ms (0.0012612 s)
+Tiempo promedio por iteracion: 0.12612 ms (0.0001261 s)
+
+  Iteracion  1: 0.13730 ms
+  Iteracion  2: 0.09100 ms
+  Iteracion  3: 0.13890 ms
+  Iteracion  4: 0.10090 ms
+  Iteracion  5: 0.11240 ms
+  Iteracion  6: 0.12260 ms
+  Iteracion  7: 0.11840 ms
+  Iteracion  8: 0.17200 ms
+  Iteracion  9: 0.13630 ms
+  Iteracion 10: 0.13140 ms

@@ -38,3 +38,107 @@ Posicion inicial: a1
 Cantidad de movimientos: 1
 Resultado: movimiento CORRECTO
 Tiempo de 10 verificaciones: 0.0000583000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0079231000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0056976000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0083236000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0079319000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0079864000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0096553000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0102593000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0087125000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0083015000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0090841000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0082420000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 500
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0115409000 segundos
+
+
+RESULTADOS DEL EJERCICIO 1
+==========================
+Posicion inicial: a1
+Cantidad de movimientos: 1
+Resultado: movimiento CORRECTO
+Tiempo de 10 verificaciones: 0.0001952000 segundos
